@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @romy1989
 - 👀 I’m interested in ... Learning as much as I can
 - 🌱 I’m currently learning ... PHP, Laravel and Vue3js
-- 💞️ I’m looking to collaborate on ...With anyone and anythinb I can
+- 💞️ I’m looking to collaborate on ...With anyone and anything I can
 - 📫 How to reach me ...
 
 <!---
